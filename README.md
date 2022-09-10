@@ -22,5 +22,5 @@
 <div style="margin-top: 2%;">
 
 [![Instagram](https://img.shields.io/badge/Instagram-D876CB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yas_marcelino)
-[![Spotify](https://img.shields.io/badge/Spotify-D876CB?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2eNu1KHn0obIDmhMxAwK5r?si=1c04979638f54650)
+[![Spotify](https://img.shields.io/badge/Spotify-D876CB?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/05B018LMftsGtYVn3Vy3Jy?si=66F3RNV1Q5SmwFv7PIqUBw&utm_source=copy-link)
 </div>
