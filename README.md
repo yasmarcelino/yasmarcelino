@@ -1,16 +1,26 @@
-### Hi there 👋
+<div style="display:flex; align-items: center;  gap:2%; margin-top: 5%; margin-bottom: 3%;">
 
-<!--
-**yasmarcelino/yasmarcelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yasmarcelino&show_icons=true&theme=jolly"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmarcelino&layout=compact&theme=jolly"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Tecnologias favoritas: 
+<div style="margin-top: 2%; margin-bottom: 4%;"> 
+
+<img src="https://img.icons8.com/material-outlined/384/D876CB/html-5.png" style="height: 50px;" viewBox="0 0 24 24" >
+</img> 
+<img src="https://img.icons8.com/windows/512/D876CB/css3.png" style="height: 54px;" viewBox="0 0 24 24" >
+</img> 
+<img src="https://img.icons8.com/windows/512/D876CB/js-squared.png" style="height: 54px;" viewBox="0 0 24 24" >
+</img>
+
+</div>
+
+#### Um pouco mais sobre mim:
+<div style="margin-top: 2%;">
+
+[![Instagram](https://img.shields.io/badge/Instagram-D876CB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yas_marcelino)
+[![Spotify](https://img.shields.io/badge/Spotify-D876CB?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2eNu1KHn0obIDmhMxAwK5r?si=1c04979638f54650)
+</div>
